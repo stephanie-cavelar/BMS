@@ -45,3 +45,5 @@ Circuito de balanceamento
 # Referências
 
 https://www.sta-eletronica.com.br/artigos/baterias-recarregaveis/baterias-de-litio/como-balancear-baterias-de-li-ion-em-packs-de-baterias#:~:text=Os%20circuitos%20de%20balanceamento%20de,na%20carga%20como%20na%20descarga.
+
+https://matlabacademy.mathworks.com/details/simscape-battery-onramp/orsb
